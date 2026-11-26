@@ -1,0 +1,7 @@
+pyproject.toml
+src/btc_forecast/data/ingest.py
+src/btc_indicator_forecast.egg-info/PKG-INFO
+src/btc_indicator_forecast.egg-info/SOURCES.txt
+src/btc_indicator_forecast.egg-info/dependency_links.txt
+src/btc_indicator_forecast.egg-info/requires.txt
+src/btc_indicator_forecast.egg-info/top_level.txt
